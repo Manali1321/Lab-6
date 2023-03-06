@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE list SYSTEM "lab6.dtd">
+<list>
+  <book id="9780525536192">
+    <isbn>ISBN: 9780525536192</isbn>
+    <title>Book title: Becoming</title>
+    <year>Year of Publish: 2018</year>
+    <lang>Language: English</lang>
+    <author>Author: Michelle Obama</author>
+  </book>
+  <book id="9780307272119">
+    <isbn>ISBN: 9780307272119</isbn>
+    <title>Book title: The Brief Wondrous Life of Oscar Wao</title>
+    <year>Year of Publish: 2007</year>
+    <lang>Language: English</lang>
+    <author>Author: Junot Díaz</author>
+  </book>
+</list>
